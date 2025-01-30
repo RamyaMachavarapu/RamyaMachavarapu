@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramyamachavarapu.ramyamachavarapu" />
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgKmfrWHo2IL1lhXgtZnKwrLA3ldjP97UwP7qtkLlaH89WPGDxqSj2fiuZGcT238yeu_v_PpC8Q7ZsfQPAN0EBTg1hmXQXmPd81F7LEtq6GwkIHy1OO5QKePwsZRNQCox_I9BZTeJE5EItA6Wd0KXX4rHHs5aafHV0fwWnlsCtr0j75Pei0fVqG8D6MNevO=s16000" alt="MasterHead">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgKmfrWHo2IL1lhXgtZnKwrLA3ldjP97UwP7qtkLlaH89WPGDxqSj2fiuZGcT238yeu_v_PpC8Q7ZsfQPAN0EBTg1hmXQXmPd81F7LEtq6GwkIHy1OO5QKePwsZRNQCox_I9BZTeJE5EItA6Wd0KXX4rHHs5aafHV0fwWnlsCtr0j75Pei0fVqG8D6MNevO=w640-h154" alt="MasterHead">
 </p>
 
 
